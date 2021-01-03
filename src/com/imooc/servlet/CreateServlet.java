@@ -3,6 +3,11 @@ package com.imooc.servlet;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 
+/**
+ * 第一个servlet,创建数据库
+ * @author Administrator
+ *
+ */
 public class CreateServlet extends HttpServlet{
 
 	@Override
